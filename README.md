@@ -8,7 +8,7 @@ It demonstrates a complete ML pipeline including:
 - Exploratory Data Analysis (EDA)
 - Model training
 - Evaluation
-- Prediction
+- Prediction  
 
 ---
 
